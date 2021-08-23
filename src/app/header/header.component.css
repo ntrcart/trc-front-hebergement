@@ -1,0 +1,19 @@
+#center-img
+{
+  margin-top:20px;
+  background: url("../../assets/img/seo.jpg") no-repeat center;
+background-size: contain;
+height:500px;
+}
+.c2
+{
+  padding-top: 100px;
+  color:  Teal;
+  font-size:30px;
+}
+.desc
+{
+ color:#2A6FB5;
+ font-size: 20px;
+padding-top: 50px;
+}

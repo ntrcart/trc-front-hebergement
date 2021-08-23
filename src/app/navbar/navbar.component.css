@@ -1,0 +1,27 @@
+.spacer
+{
+  flex: 1 1 auto;
+}
+.verteau
+{
+  background-color: Teal;
+  height: 70px;
+}
+.link-color
+{
+  color:#fff;
+  font-size: 19px;
+}
+.back_color
+{
+  background-color:#E1EFEC ;
+}
+.sizea
+{
+  font-size: 19px;
+}
+.colorrow
+{
+  background-color: #E1F0EA;
+  height: 50px;
+}
